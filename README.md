@@ -1,6 +1,7 @@
 # Theory-Driven Network Backbones for Bipartite Projections
 
-Code, data, and experimental results accompanying the study *Theory-Driven Network Backbones for Bipartite Projections*. **Preprint:** arXiv link to be added.
+Code, data, and experimental results accompanying the study *Theory-Driven Network Backbones for Bipartite Projections*. 
+**Preprint:** arXiv link to be added.
 
 ## Overview
 
