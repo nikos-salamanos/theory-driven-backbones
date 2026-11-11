@@ -11,9 +11,6 @@ __pycache__/
 # SBI training tensors
 **/x_train*.pt
 
-# Plotting script
-case_study/experiments/plot_huff_results.py
-
 # Temporary experiment logs
 **/sbi-logs/
 
