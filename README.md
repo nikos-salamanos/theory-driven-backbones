@@ -30,7 +30,7 @@ A softmax over all 131 types at each site gives `p(type | site)`. Weighting by s
 
 ### Interactive map
 
-![Preview of the archaeological commodity map](illustrations/map_preview.png)
+![Preview of the archaeological commodity map](illustrations/commodity_flows.svg)
 
 [Interactive archaeological map (HTML)](illustrations/Interactive_map.html)
 
