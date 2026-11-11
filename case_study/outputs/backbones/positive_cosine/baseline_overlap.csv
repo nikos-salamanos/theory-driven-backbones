@@ -1,0 +1,4 @@
+method,top_k,available_scored_edges,intersection_with_theory,jaccard_at_k
+noise_corrected,50,2915,1,0.010101010101010102
+disparity_filter,50,2915,1,0.010101010101010102
+naive,50,2915,1,0.010101010101010102

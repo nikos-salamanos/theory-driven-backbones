@@ -1,0 +1,10 @@
+{
+  "mean_absolute_error": 0.0235357116907835,
+  "cell_coverage_90pct": 0.9133249589332303,
+  "posterior_samples_used": 1000,
+  "observation_model": "multinomial",
+  "sampling_model": "per-type",
+  "demand_model": "population",
+  "positive_cell_coverage_90pct": 0.4399551066217733,
+  "positive_cell_mean_absolute_error": 0.13991612195968628
+}

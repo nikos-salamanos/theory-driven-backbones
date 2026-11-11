@@ -1,0 +1,81 @@
+{
+  "mode": "sbi",
+  "simulations": 5000,
+  "posterior_samples": 2000,
+  "ppc_samples": 1000,
+  "sbc_runs": 100,
+  "sbc_samples": 200,
+  "seed": 0,
+  "parameter_names": [
+    "ASC_em__wine",
+    "ASC_gaul__fish_sauce",
+    "ASC_iberianpeninsula__fish_sauce",
+    "ASC_iberianpeninsula__olive_oil",
+    "ASC_iberianpeninsula__wine",
+    "ASC_italy__fish_sauce",
+    "ASC_italy__olive_oil",
+    "ASC_italy__wine",
+    "ASC_northafrica__fish_sauce",
+    "ASC_northafrica__olive_oil",
+    "ASC_northafrica__wine",
+    "beta"
+  ],
+  "groups": [
+    [
+      "gaul",
+      "wine"
+    ],
+    [
+      "em",
+      "wine"
+    ],
+    [
+      "gaul",
+      "fish sauce"
+    ],
+    [
+      "iberianpeninsula",
+      "fish sauce"
+    ],
+    [
+      "iberianpeninsula",
+      "olive oil"
+    ],
+    [
+      "iberianpeninsula",
+      "wine"
+    ],
+    [
+      "italy",
+      "fish sauce"
+    ],
+    [
+      "italy",
+      "olive oil"
+    ],
+    [
+      "italy",
+      "wine"
+    ],
+    [
+      "northafrica",
+      "fish sauce"
+    ],
+    [
+      "northafrica",
+      "olive oil"
+    ],
+    [
+      "northafrica",
+      "wine"
+    ]
+  ],
+  "observed_column": "x_obs_raw",
+  "n_amphora_types": 131,
+  "n_sites": 79,
+  "n_cells": 10349,
+  "input_sha256": "9a6c0ae046fa3e9653407dd7c13923b6413e49499eeda8a3148b0a48f028c545",
+  "demand_model": "population",
+  "observation_model": "multinomial",
+  "sampling_model": "per-type"
+}

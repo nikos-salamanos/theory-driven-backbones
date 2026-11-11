@@ -1,0 +1,10 @@
+{
+  "draws": 1000,
+  "chunk": 32,
+  "seed": 0,
+  "n_sites": 79,
+  "n_amphora_types": 131,
+  "similarity": "positive standardized residual cosine",
+  "null": "posterior predictive",
+  "bh_caveat": "Descriptive only; FDR control is not established."
+}
