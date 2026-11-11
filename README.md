@@ -8,7 +8,7 @@ Theory-Driven Network Backboning (TDBB) extracts informative connections from a 
 
 Simulation-Based Inference (SBI) calibrates the model M to the bipartite data; posterior-predictive simulations provide a model-based reference for scoring projected links.
 
-![Overview of the theory-driven network backbone framework](illustrations/figure1.svg)
+![Overview of the theory-driven network backbone framework](illustrations/conceptual_framework.svg)
 
 ## Synthetic experiments
 
