@@ -30,11 +30,13 @@ For site `i` and amphora type `a`, utility is
 
 A softmax over all 131 types at each site gives `p(type | site)`. Weighting by site population and normalizing across sites for each type gives `p(site | type)`. A multinomial simulator allocates each type's observed total across sites. SBI uses the resulting type-normalized site fractions. The model estimates 11 region–good constants (with one reference constant fixed at zero) and one shared transport coefficient.
 
+
 ### Interactive map
 
-![Preview of the archaeological commodity map](illustrations/commodity_flows.svg)
+[![Preview of the archaeological commodity map](illustrations/commodity_flows.svg)](https://nikos-salamanos.github.io/theory-driven-backbones/illustrations/Interactive_map.html)
 
-[Interactive archaeological map (HTML)](illustrations/Interactive_map.html)
+**[Open the interactive archaeological map](https://nikos-salamanos.github.io/theory-driven-backbones/illustrations/Interactive_map.html)**
+
 
 ## Repository structure
 
