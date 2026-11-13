@@ -2,7 +2,7 @@
 
 Code, data, and experimental results accompanying the study *Theory-Driven Network Backbones for Bipartite Projections*. 
 
-**Preprint:** arXiv link to be added.
+**Preprint:** Nikos Salamanos, Paula Gheorghiade, Tom Brughmans, and Michele Coscia (2026). *Theory-Driven Network Backbones for Bipartite Projections*. [arXiv:2611.16692](https://arxiv.org/abs/2611.16692) | [PDF](https://arxiv.org/pdf/2611.16692)
 
 ## Overview
 
@@ -79,7 +79,23 @@ Open `RUN_CASE_STUDY.py` in a Python IDE and select the stages to run. Set `CHEC
 
 The individual scripts are also available in `case_study/experiments/`. Preprocessing is provided in `case_study/data/amphora_bipartite_construction.py`.
 
+
 ## Citation
 
-Please cite the associated arXiv preprint of *Theory-Driven Network Backbones for Bipartite Projections*. 
-A direct link and citation details will be added when the preprint is available.
+If you use this repository, its methods, or its accompanying data in your research, please cite:
+
+**Salamanos, N., Gheorghiade, P., Brughmans, T., & Coscia, M. (2026).** *Theory-Driven Network Backbones for Bipartite Projections*. arXiv:2611.16692. https://arxiv.org/abs/2611.16692
+
+**BibTeX**
+
+```bibtex
+@misc{salamanos2026theorydrivennetworkbackbonesbipartite,
+  title         = {Theory-Driven Network Backbones for Bipartite Projections},
+  author        = {Nikos Salamanos and Paula Gheorghiade and Tom Brughmans and Michele Coscia},
+  year          = {2026},
+  eprint        = {2611.16692},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.SI},
+  url           = {https://arxiv.org/abs/2611.16692}
+}
+```
